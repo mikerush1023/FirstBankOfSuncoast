@@ -1,0 +1,7 @@
+TransactionType,ChangeOfBalance
+Deposit,100
+Deposit,50
+Withdraw,40
+Deposit,25
+Deposit,40
+Withdraw,10
